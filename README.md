@@ -3,7 +3,7 @@ SBFspot upload daemon image
 
 ## Building
 ```
-docker build solarexplorer/sbfspot-uploader .
+docker build -t solarexplorer/sbfspot-uploader .
 ```
 
 ## Running SBFspot uploader
